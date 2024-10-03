@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='simple_calculator',
+    name='calculatot',
     version='0.1',
     packages=find_packages(),
     author='Yanu',
